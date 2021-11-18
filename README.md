@@ -9,7 +9,7 @@ Need to prepare:
 Video tutorial: Please wait for the update
 
 Installation step instruction (Command):
-1) git clone https://github.com/laomingOfficial/RaspberryPi-re3
+1) git clone https://github.com/CrashCortez/RaspberryPi-re3
 2) chmod -R +x RaspberryPi-re3/*.sh
 3) Run the following commands on your system
 
