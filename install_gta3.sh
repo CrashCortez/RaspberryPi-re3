@@ -17,7 +17,7 @@ cd premake-core
 make -f Bootstrap.mak linux
 cd ..
 
-git clone -b main --recursive https://github.com/GTAmodding/re3.git
+git clone -b main --recursive https://github.com/td512/re3.git
 cd re3
 ../premake-core/bin/release/premake5 --with-librw gmake2
 cd build
