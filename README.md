@@ -1,17 +1,17 @@
 # RaspberryPi-re3
- 樹莓派 Raspberry Pi - GTA III, Vice City
+ Raspberry Pi - GTA III, Vice City
 
-需要準備:
-- 樹莓派4
-- Raspbian [32bit 系統](https://downloads.raspberrypi.org/raspios_lite_armhf/images/) / [64bit 系統](https://downloads.raspberrypi.org/raspios_arm64/images/)
-- GTA III/Vice City 遊戲文件
+Need to prepare:
+-Raspberry Pi 4
+- Raspbian [32bit](https://downloads.raspberrypi.org/raspios_lite_armhf/images/) / [64bit](https://downloads.raspberrypi.org/raspios_arm64/images/)
+- GTA III/Vice City game files
 
-影片教程: 請等待更新
+Video tutorial: Please wait for the update
 
-安裝步驟指令(Command):  
+Installation step instruction (Command):
 1) git clone https://github.com/laomingOfficial/RaspberryPi-re3
 2) chmod -R +x RaspberryPi-re3/*.sh
-3) 以你系統運行以下指令
+3) Run the following commands on your system
 
 32bit system
 ```
