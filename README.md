@@ -13,36 +13,36 @@
 2) chmod -R +x RaspberryPi-re3/*.sh
 3) 以你系統運行以下指令
 
-32bit 系統
+32bit system
 ```
-如要安裝GTA III
+To install GTA III
 ./RaspberryPi-re3/install_gta3.sh
 
-如要安裝GTA VC
+To install GTA VC
 ./RaspberryPi-re3/install_gtavc.sh
 
-升級
+upgrade
 ./RaspberryPi-re3/update.sh
 ```
 
-64bit 系統
+64bit system
 ```
-如要安裝GTA III
+To install GTA III
 ./RaspberryPi-re3/install_gta3_64.sh
 
-如要安裝GTA VC
+To install GTA VC
 ./RaspberryPi-re3/install_gtavc_64.sh
 
-升級
+upgrade
 ./RaspberryPi-re3/update_64.sh
 ```
 
-4) 進入re3文件夾，進入gamefiles文件夾，複製全部文件和文件夾，粘貼(覆蓋全部)到GTA III/Vice City遊戲文件夾裡
-5) 進入re3文件夾，進入bin文件夾，進入linux命名的文件夾，進入Release文件夾，複製reVC，粘貼(覆蓋全部)到GTA III/Vice City遊戲文件夾裡
-6) 進入GTA III/Vice City遊戲文件夾
-7) 輸入./reVC 開啟遊戲
+4) Enter the re3 folder, enter the gamefiles folder, copy all files and folders, and paste (overwrite all) into the GTA III/Vice City game folder
+5) Enter the re3 folder, enter the bin folder, enter the linux-named folder, enter the Release folder, copy reVC, and paste (overwrite all) into the GTA III/Vice City game folder
+6) Enter the GTA III/Vice City game folder
+7) Type ./reVC to start the game
 
-建議:
-- 進入遊戲之後，把遊戲解析度調到最低
-- 超頻arm_freq=2000 gpu_freq=600 over_voltage=6
-- 個人感覺使用64bit系統比較順暢
+Suggest:
+-After entering the game, adjust the game resolution to the lowest
+-Overclocking arm_freq=2000 gpu_freq=600 over_voltage=6
+-Personally feel that using a 64bit system is smoother
